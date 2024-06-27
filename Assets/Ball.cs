@@ -9,6 +9,7 @@ public class Ball : MonoBehaviour
 {   
     public Rigidbody2D rigidbody2D;
     public float Speed = 6f;
+    public UiManager UiManager;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +20,8 @@ public class Ball : MonoBehaviour
 
     private void SendBallInRandomDirection()
     {
+        BallReset
+        
         rigidbody2D.velocity = Vector3.zero;
         rigidbody2D.isKinematic = true;
         transform.position = Vector3.zero;
@@ -35,7 +38,9 @@ public class Ball : MonoBehaviour
     {
         if (transform.position.x >0)
         {
-            
+         Debug.Log("Player Left +1");
+         LeftPlayerScore++;
+         UiManager.SetLeftPlayerScoreText(LeftPlayerScore.ToString()).;
         }
     }
 

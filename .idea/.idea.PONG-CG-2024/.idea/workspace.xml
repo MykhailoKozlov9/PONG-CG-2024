@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6026e51c-2a3f-4b1b-af38-c629ffe49a26" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PONG-CG-2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PONG-CG-2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ball.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity 2023.1.5f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\mkozlov\Desktop\PONG-CG-2024 -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\mkozlov\Desktop\PONG-CG-2024" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -55,7 +53,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity 2023.1.5f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\mkozlov\Desktop\PONG-CG-2024 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\mkozlov\Desktop\PONG-CG-2024" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -95,6 +93,7 @@
       <workItem from="1717692761003" duration="3294000" />
       <workItem from="1718897883989" duration="1553000" />
       <workItem from="1718902371251" duration="2119000" />
+      <workItem from="1719506132242" duration="3369000" />
     </task>
     <servers />
   </component>
